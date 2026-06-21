@@ -52,15 +52,15 @@ Local Storage persistence
 Responsive interface
 
 Screenshots Task 1
-![Task 1](screenshots/task1.jpeg)
+![Task 1](screenshots/task1.jpg)
 
 Task 2
-![Task 2](screenshots/task2.jpeg)
-![Task 2](screenshots/task2.1.jpeg)
+![Task 2](screenshots/task2.jpg)
+![Task 2](screenshots/task2.1.jpg)
 
 Task 3
-![Task 3](screenshots/task3.jpeg)
-![Task 3](screenshots/task3.1.jpeg)
+![Task 3](screenshots/task3.jpg)
+![Task 3](screenshots/task3.1.jpg)
 
 Task 4
-![Task 4](screenshots/task4.jpeg)
+![Task 4](screenshots/task4.jpg)
